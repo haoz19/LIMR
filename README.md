@@ -20,7 +20,7 @@
         <img src='https://img.shields.io/badge/YouTube-MagicPose-rgb(255, 0, 0)' alt='Youtube'></a> -->
      </br>
     <table align="center">
-        <img src="./figures/fig1">
+        <img src="./figures/fig6.png">
     </table>
 </p>
 
@@ -29,6 +29,10 @@ and efficiently learns parametric models including visible shapes and underlying
 approach: it first focuses on learning coarse parametric models, then progresses to motion learning and detail addition. This method substantially lowers computational complexity and enhances robustness in reconstruction from limited viewpoints, all without requiring additional annotations.*
 
 *For 4D Motion Transfer, please also check our new work [MagicPose4D](https://github.com/haoz19/MagicPose4D)!*
+
+<table align="center">
+    <img src="./figures/fig77.png"> 
+</table>
 
 ## News
 * **[2024.5.21]** Code is coming soon.
